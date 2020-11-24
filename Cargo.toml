@@ -1,5 +1,5 @@
 [package]
-name = "soldout-login"
+name = "login"
 version = "0.1.0"
 authors = ["Dio"]
 edition = "2018"
